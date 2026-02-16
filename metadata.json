@@ -1,0 +1,7 @@
+{
+  "name": "Nova Pro: FF Ultra Panel",
+  "description": "A high-end, cyberpunk-themed game optimization and sensitivity dashboard for Free Fire enthusiasts, featuring AI-powered gameplay strategies.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
